@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction-for-Sprint-
+# Customer Churn Prediction for Sprint
 Steps on Creating a ML Model That Can Predict If a Customer is  going to leave or not.
 
  1. Understand the problem, that is customer churn and understand the importance of customers retention at Sprint
